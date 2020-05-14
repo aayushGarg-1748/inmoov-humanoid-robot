@@ -1,0 +1,23 @@
+2xEyeBallFullV2 - time:2:00 hours, material: 6m
+
+EyeBallSupportLifeCamHDLeftV1 - time: 1hour, material:3m
+
+EyeBallSupportLifeCamHDRightV1 - time: 1hour, material:3m
+
+EyeglassV4 - time: 5hours30min, material: 16m
+
+EyeHingeCurveV1 - time: 20min, material: 1m
+
+EyeHingeV2 - time 15min, material: 0.60m
+
+EyeHolderV1 - time 10min, material: 0.30m
+
+EyePlateLeftV1 - time: 20min, material: 1m
+
+EyePlateRightV1 - time: 20min, material: 1m
+
+EyeSupportV5 - time: 2hours30min, material: 8m
+
+EyeTo NoseV5 - time: 1hour, material 3m
+
+total = time: 14hours 30min, material 43m

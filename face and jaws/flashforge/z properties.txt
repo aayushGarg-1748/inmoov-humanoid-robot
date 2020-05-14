@@ -1,0 +1,17 @@
+JawHingeV1 - time: 1hour47min, material: 3.34m
+
+JawHingeV3 - time: 1hour41min, material: 3.41m
+
+JawPistonV1 - time: 1hour16min, material: 1.29m
+
+JawSupportV1 - time: 1hour54min, material: 7m
+
+JawV4 - time: 7hour6min, material: 14.63m 
+
+LowBackV5 - time: 8hour17min, material: 18.74m
+
+SideHearV4 - time: 5hour9min, material: 14.34m  
+
+TopMouthV4 - time: 2hour45min, material: 13.02m
+
+total: time: 33hours, material: 77m approx

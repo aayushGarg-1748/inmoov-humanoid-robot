@@ -1,0 +1,39 @@
+FaceHolderV4 - time: 1hour33min, material: 6m
+
+GearHolderV2 - time: 1hour12min , material: 9m
+
+MainGearV2 - time: 2hours22min, material: 6m
+
+NeckBoltsV2 - time: 1hour17min, material: 3m
+
+NeckJointLowerV4 - time: 2hours25min, material: 9m
+
+NeckPistonBaseFrontV1 - time: 3hours38min, material: 12.02m
+
+NeckPistonSideV1 - time: 3hours59min, material: 12.76m
+
+NeckPistonV2 - time: 6hours54min, material: 23.51m
+
+NeckPlateHighV2 - time: 6hours34min, material: 24.66m
+
+NeckPlateV2 - time: 2hours32min, material: 9.72m
+
+NeckServoHolderV2 - time: 2hours44min, material: 9.41m
+
+NeckServoPivotV2 - time: 2hours26min, material: 10m
+
+NeckV2 - time: 6hours55min, material: 24.37m
+
+PistonBaseSideV2 - time: 1hours17min, material: 3.91m
+
+RingV2 - time: 48min, material: 3.01m
+
+ServoGearV2 - time: 2hours28min, material: 9.21m
+
+SkullServoFixV1 - time: 4hours58min, material: 20.81m
+
+ThroatHolderV2 - time: 2hours6min, material: 8.27m
+
+ThroatHoleV3 - time: 2hours29min, material: 11.24m
+
+total - time: (52hours, material: 225m) aaprox

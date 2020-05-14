@@ -1,0 +1,4 @@
+first print and assemble eyes
+second print neck
+third print face and jaws 
+fourth print skulls and ears
